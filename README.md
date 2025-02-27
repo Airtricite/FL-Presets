@@ -1,3 +1,22 @@
+FEATURED: General XY Case
+Featured Functionality: 
+
+Pitch sliding notes for 3rd vst plugins(With editable pitch sliding curve)
+
+Bow expression emulator
+
+![image](https://github.com/user-attachments/assets/027bfaa8-e150-4029-ac25-32c98e08899a)
+
+![image](https://github.com/user-attachments/assets/463fa2da-afca-460b-9b5c-e0fb32064955)
+
+![image](https://github.com/user-attachments/assets/cf4fdea5-509c-4c12-a3af-f5993f950179)
+
+![image](https://github.com/user-attachments/assets/07104206-5d3e-4d12-938e-347775c1fbcc)
+
+![image](https://github.com/user-attachments/assets/1eb1a4b0-e35d-4ded-a5db-cbc326020283)
+
+
+-------------------------------------------------------------------------------------------
 Simple Chord
 
 ![image](https://github.com/user-attachments/assets/793484c1-d198-48bf-a451-588c93e8d916)
