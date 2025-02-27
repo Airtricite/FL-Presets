@@ -1,4 +1,5 @@
 FEATURED: General XY Case
+
 Featured Functionality: 
 
 Pitch sliding notes for 3rd vst plugins(With editable pitch sliding curve)
