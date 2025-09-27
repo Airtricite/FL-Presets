@@ -33,11 +33,6 @@ Bass Blender
 ![image](https://github.com/user-attachments/assets/cfefc339-bae5-47dc-aa13-323f858f3af8)
 
 -------------------------------------------------------------------------------------------
-Fruity Dynamic EQ-7
-
-![image](https://github.com/user-attachments/assets/f841794a-60b6-4adc-b019-a29eb8a6c47c)
-
--------------------------------------------------------------------------------------------
 SideChainFX(Duck)(MIDI Port 255)
 
 ![image](https://github.com/user-attachments/assets/649b0f7d-ed51-4db3-83eb-7e736b5c9e4d)
